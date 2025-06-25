@@ -14,13 +14,20 @@ Built for learning, extending, and showcasing classic data structure logic.
 ---
 
 ## 📁 Folder Structure
+
 JavaDataStructures/
+
 ├── src/
-│ └── ds/
-│ ├── DynamicArray.java
-│ ├── DoublyLinkedList.java
-│ ├── Node.java
-│ └── Main.java
+ 
+ │ └── ds/
+
+   │ ├── DynamicArray.java
+
+   │ ├── DoublyLinkedList.java
+
+   │ ├── Node.java
+
+   │ └── Main.java
 
 
 All files are inside the `ds` package.
